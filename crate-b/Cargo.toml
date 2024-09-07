@@ -1,0 +1,7 @@
+[package]
+name = "crate-b"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+feature_str_from_raw_parts_util = { path = "../crate-a" }

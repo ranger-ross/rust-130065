@@ -1,0 +1,6 @@
+[package]
+name = "feature_str_from_raw_parts_util"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
